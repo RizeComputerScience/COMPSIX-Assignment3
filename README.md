@@ -1,4 +1,4 @@
-# Assignment #4: Fitness Analytics System
+# Assignment #3: Fitness Analytics System
 This repository contains your starter code for the Fitness Analytics System assignment.
 
 ## Getting Started
