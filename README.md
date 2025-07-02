@@ -42,10 +42,9 @@ npm test
 
 ## File Structure
 ```
-src/
-├── healthReader.js
-├── workoutReader.js
-└── dataProcessor.js
+healthReader.js
+workoutReader.js
+dataProcessor.js
 tests/
 ├── healthReader.test.js
 └── workoutReader.test.js
